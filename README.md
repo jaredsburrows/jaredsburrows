@@ -8,10 +8,10 @@ here: [jaredsburrows@gmail.com](mailto:jaredsburrows@gmail.com).
 <p align="center">
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=jaredsburrows&show_icons=true&theme=github_dark&hide_border=true"
+  srcset="https://github-stats-extended.vercel.app/api?username=jaredsburrows&show_icons=true&theme=github_dark&hide_border=true"
   media="(prefers-color-scheme: dark)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=jaredsburrows&show_icons=true&hide_border=true" alt="Jared Burrows' GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=jaredsburrows&show_icons=true&hide_border=true" alt="Jared Burrows' GitHub stats" />
 </picture>
 </p>
 
